@@ -1,6 +1,6 @@
 # Specifying an R environment with a runtime.txt file
 
-![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MarkHanly/r/master)
+![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MarkHanly/r/master?urlpath=shiny/bus-dashboard/)
 
 Binder supports using R and RStudio, with libraries pinned to a specific
 snapshot on [MRAN](https://mran.microsoft.com/documents/rro/reproducibility).
